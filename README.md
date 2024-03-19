@@ -13,6 +13,11 @@ This is a simple quiz game built using HTML, CSS, and JavaScript. It presents mu
 
 To use this quiz game, follow these steps:
 
+Either visit the website: [Simple Quiz](https://009rambo.github.io/Simple-Quiz)
+
+OR
+
+
 1. Clone the repository to your local machine:
 
    ```bash
