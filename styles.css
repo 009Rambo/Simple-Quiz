@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #adb839;
     margin: 0;
     padding: 0;
   }
@@ -9,7 +9,7 @@ body {
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #aabcb1;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
@@ -46,6 +46,8 @@ body {
     cursor: pointer;
   }
 
+
+
   button:hover {
     background-color: #0056b3;
   }
@@ -64,4 +66,19 @@ body {
     font-weight: bold;
     font-size: 18px;
     color: #007bff;
+  }
+
+  #restart-button {
+    padding: 10px 20px;
+    background-color: #3729cd;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin-top: 20px;
+  }
+
+  #restart-button:hover {
+    background-color: #00b383;
   }

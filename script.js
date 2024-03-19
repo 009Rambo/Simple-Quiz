@@ -1,21 +1,21 @@
 const questions = [
     {
-      question: "What is the capital of France?",
+      question: "1. What is the capital of France?",
       options: ["Paris", "London", "Berlin", "Rome"],
       answer: "Paris"
     },
     {
-      question: "What is the capital of Finland?",
+      question: "2. What is the capital of Finland?",
       options: ["Paris", "London", "Berlin", "Helsinki"],
       answer: "Helsinki"
     },
     {
-      question: "What is 2 + 2?",
+      question: "3. What is 2 + 2?",
       options: ["3", "4", "5", "6"],
       answer: "4"
     },
     {
-      question: "Who is the author of 'Romeo and Juliet'?",
+      question: "4. Who is the author of 'Romeo and Juliet'?",
       options: ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
       answer: "William Shakespeare"
     }
@@ -85,7 +85,7 @@ const questions = [
     userScore = 0;
     document.getElementById('quiz').style.display = 'block';
     document.getElementById('score').style.display = 'none';
-    document.getElementById('restart-button').style.display = 'none';
+    document.getElementById('restart-button').style.display = 'block';
     loadQuestion();
   }
 
