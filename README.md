@@ -39,7 +39,7 @@ OR
 This quiz project was created by Ramesh Pandey.
 
 ## Further Development
-The plan is to further develop this quiz by enabling functionalities like timer and question levels from easy to hard to make it more exciting for the users. Furthermore, some advance features like user registration and backend might be added in future too.
+The plan is to further develop this quiz by enabling functionalities like timer and question levels from easy to hard to make it more exciting for the users. Furthermore, some advance features like user registration and database might be added in future too.
 
 ## License
 This project is licensed under the MIT License.
