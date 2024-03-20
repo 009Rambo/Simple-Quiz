@@ -2,6 +2,8 @@
 
 This is a simple quiz game built using HTML, CSS, and JavaScript. It presents multiple-choice questions to the user and provides feedback on their answers. The user's score is calculated based on the number of correct answers.
 
+![Simple Quiz](https://github.com/009Rambo/Simple-Quiz/blob/main/Quiz.png)
+
 ## Features
 
 - Multiple-choice questions with options.
