@@ -13,7 +13,7 @@ This is a simple quiz game built using HTML, CSS, and JavaScript. It presents mu
 
 To use this quiz game, follow these steps:
 
-Either visit the website: [Simple Quiz](https://009rambo.github.io/Simple-Quiz)
+Either visit the website: [Simple Quiz](https://009rambo.github.io/Simple-Quiz) and continue from number 4.
 
 OR
 
@@ -37,6 +37,9 @@ OR
 
 ## Credits
 This quiz project was created by Ramesh Pandey.
+
+## Further Development
+The plan is to further develop this quiz by enabling functionalities like timer and question levels from easy to hard to make it more exciting for the users. Furthermore, some advance features like user registration and backend might be added in future too.
 
 ## License
 This project is licensed under the MIT License.
