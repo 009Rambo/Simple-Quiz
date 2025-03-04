@@ -24,6 +24,8 @@ const questions = [
   let currentQuestion = 0;
   let userScore = 0;
 
+
+
   function loadQuestion() {
     const questionElement = document.getElementById('question');
     const optionsElement = document.getElementById('options');
